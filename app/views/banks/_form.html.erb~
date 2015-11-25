@@ -49,6 +49,6 @@
 </table>
 <br><br>
    <div class="actions" align="center">
-    <input class="btn btn-inverse my-btn" type="submit" value="Create Bank"></input>
+    <input class="btn btn-inverse my-btn" type="submit" value="Update Defaulter"></input>
   </div>
 <% end %>

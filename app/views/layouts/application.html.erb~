@@ -19,7 +19,7 @@
 
    <script type="text/javascript"> 
       $(document).ready( function() {
-        $('#deletesuccess').delay(2000).fadeOut();
+        $('#deletesuccess').delay(3000).fadeOut();
       });
     </script>
 
