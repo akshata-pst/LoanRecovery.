@@ -1,7 +1,7 @@
 <div class="mt">
 <table width="100%">
 <tr>
- <td><h1>Defaulters Information</h1></td>
+ <td><h1>Defaulters Information!</h1></td>
 <!--<td align="right"><label>Import Defaulters List</label></td>
 
 <td align="left"><%= form_tag import_loanrecoveries_path, multipart: true do %>
@@ -14,7 +14,6 @@
 <a href="/loanrecoveries/new" class="btn btn-inverse my-btn" role="button"><i class="fa fa-plus fa-lg my-btn"></i>&nbsp&nbsp<label class="my-btn">Create Defaulter</label></a></td></tr></table>
 
 <table id="loan_table" class="display responsive no-wrap">
- 
   <thead>
     <tr>
    
